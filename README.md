@@ -18,6 +18,7 @@
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saket-bishnu-00769a269/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)]([YOUR_INSTAGRAM_LINK_HERE](https://www.instagram.com/.saket._singh.?utm_source=qr&igsh=azc4eWd1ajhlNTNx))  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saketbsn@gmail.com)
 
 ## ⚡ Fun Facts  
 - 🏏 I love playing **Cricket**  
@@ -33,7 +34,8 @@
 
 ---
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_LINK_HERE)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)]()  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saketbsn@gmail.com)
   
   
 ---
