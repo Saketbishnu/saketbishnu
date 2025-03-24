@@ -5,9 +5,7 @@
 🌟 Passionate about coding, problem-solving, and building cool projects.  
 🔭 Currently working on **Player Detection System in Football** using computer vision.  
 🎯 Skilled in **Python, C++, Machine Learning and Web Development**.  
-🏆 **Achievements:**  
-   - 🏅 1st Prize in **1st-year Semiconductor Expo**  
-   - 🏆 1st Prize in **Tug of War (Dec 2024)**  
+
 
 ## 🚀 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -23,7 +21,8 @@
 
 ## ⚡ Fun Facts  
 - 🏏 I love playing **Cricket**  
-- 🎵 I enjoy **listening to music** in my free time  
+- 🎵 I enjoy **listening to music** in my free time
+-  🏆 1st Prize in **Tug of War (Dec 2024)** 
 
 ## 📊 GitHub Stats  
 ![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketbishnu&show_icons=true&theme=radical)  
@@ -36,7 +35,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_LINK_HERE)  
   
-
+  
 ---
 
 <!--
