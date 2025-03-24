@@ -4,7 +4,7 @@
 
 🌟 Passionate about coding, problem-solving, and building cool projects.  
 🔭 Currently working on **Player Detection System in Football** using computer vision.  
-🎯 Skilled in **Python, C++, and Web Development**.  
+🎯 Skilled in **Python, C++, Machine Learning and Web Development**.  
 🏆 **Achievements:**  
    - 🏅 1st Prize in **1st-year Semiconductor Expo**  
    - 🏆 1st Prize in **Tug of War (Dec 2024)**  
