@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-FFA500?style=flat-square&logo=HTML5&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0277BD?style=flat-square&logo=TensorFlow&logoColor=white)
 
 ## 📬 Connect with Me  
 [![LinkedIn](# 👋 Hi, I'm Saket Bishnu!  
