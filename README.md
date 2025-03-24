@@ -49,17 +49,7 @@
 ---
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_LINK_HERE)  
-
-## ⚡ Fun Facts  
-- 🏏 I love playing **Cricket**  
-- 🎵 I enjoy **listening to music** in my free time  
-
-## 📊 GitHub Stats  
-![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketbishnu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saketbishnu&layout=compact&theme=radical)  
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=saketbishnu&theme=dracula)  
+  
 
 ---
 
