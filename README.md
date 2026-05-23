@@ -1,56 +1,133 @@
-## Hi there 👋
-# 👋  I'm Saket Bishnu!  
-### 🚀 I am a Software Engineer  
+<div align="center">
 
-🌟 Passionate about coding, problem-solving, and building cool projects.  
-🔭 Currently working on **Player Detection System in Football** using computer vision.  
-🎯 Skilled in **Python, C++, Machine Learning and Web Development**.  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00F7FF&text=SAKET%20BISHNU&fontColor=ffffff&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Software%20Engineer%20%7C%20ML%20Engineer%20%7C%20MERN%20Developer&descAlignY=60"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;Computer+Vision+Developer;MERN+Stack+Developer;Building+AI+Powered+Applications"/>
 
-## 🚀 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Web Development](https://img.shields.io/badge/-Web%20Development-FFA500?style=flat-square&logo=HTML5&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0277BD?style=flat-square&logo=TensorFlow&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)  
-  
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saket-bishnu-00769a269/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)]([YOUR_INSTAGRAM_LINK_HERE](https://www.instagram.com/.saket._singh.?utm_source=qr&igsh=azc4eWd1ajhlNTNx))  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saketbsn@gmail.com)
-
-## ⚡ Fun Facts  
-- 🏏 I love playing **Cricket**  
-- 🎵 I enjoy **listening to music** in my free time
--  🏆 1st Prize in **Tug of War (Dec 2024)** 
-
-## 📊 GitHub Stats  
-![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketbishnu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saketbishnu&layout=compact&theme=radical)  
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=saketbishnu&theme=dracula)  
+</div>
 
 ---
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)]()  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:saketbsn@gmail.com)
-  
-  
+# ⚡ AI Command Center
+
+```yaml
+Name: Saket Bishnu
+Role: Software Engineer
+Education: SRMIST — B.Tech CSE (Big Data Analytics)
+
+Focus:
+  - Machine Learning
+  - Computer Vision
+  - MERN Stack
+  - Generative AI
+```
+
 ---
 
-<!--
-**Saketbishnu/saketbishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌐 Connect
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://saket-bishnu.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Portfolio-LIVE_WEBSITE-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saket-bishnu-00769a269/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:saketbsn@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 Tech Matrix
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,tailwind,vite,tensorflow,opencv,mysql,git,github,vscode&perline=8"/>
+
+</div>
+
+---
+
+# 🚀 Projects
+
+### 🔬 LiverSegNet
+Medical Image Segmentation AI.
+
+### ⚽ Football Tracking using YOLO
+Player tracking + Ball analytics + Optical Flow.
+
+### 🌾 Crop Yield Prediction
+Random Forest + SVM + Deep Learning.
+
+### 💊 MedSwift
+Instant Delivery MERN Platform.
+
+### 🏥 Good Life Clinic
+Full Stack Clinic Management Website.
+
+### 🤖 Credit Card Fraud Detection
+ML based fraud analysis system.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saketbishnu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saketbishnu&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saketbishnu&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Saketbishnu/Saketbishnu/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 1st Prize — Semiconductor Expo
+
+🏅 1st Prize — Tug of War (2024)
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Saketbishnu&label=Visitors&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Code • Learn • Build • Deploy
+
+</div>
