@@ -8,7 +8,7 @@
 
 ---
 
-# ⚡ AI Command Center
+# ⚡  Command Center
 
 ```yaml
 Name: Saket Bishnu
