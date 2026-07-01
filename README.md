@@ -58,29 +58,32 @@ Focus:
 
 </div>
 
----
+# 🚀 Featured Projects
 
-# 🚀 Projects
-
-### 🔬 LiverSegNet
-Medical Image Segmentation AI.
-
-### ⚽ Football Tracking using YOLO
-Player tracking + Ball analytics + Optical Flow.
-
-### 🌾 Crop Yield Prediction
-Random Forest + SVM + Deep Learning.
-
-### 💊 MedSwift
-Instant Delivery MERN Platform.
-
-### 🏥 Good Life Clinic
-Full Stack Clinic Management Website.
-
-### 🤖 Credit Card Fraud Detection
-ML based fraud analysis system.
+| 🚀 Project | 📝 Description | ⚙️ Tech Stack |
+|------------|----------------|---------------|
+| 🏥 **Good Life Clinic** | Full Stack Clinic Management System with Patient, Doctor & Admin Dashboards, Appointment Booking, Authentication, Cloud Image Upload, and Responsive UI. | `MERN` `MongoDB` `Express` `React` `Node.js` `JWT` `Cloudinary` |
+| 💊 **MedSwift** | AI-powered medicine delivery platform with authentication, medicine catalog, order management, and a responsive frontend experience. | `MERN` `React` `Node.js` `MongoDB` `Tailwind CSS` |
+| 🔬 **LiverSegNet** | Deep Learning-based medical image segmentation model for accurate liver segmentation from CT scans using semantic segmentation techniques. | `Python` `TensorFlow` `OpenCV` `U-Net` |
+| ⚽ **Football Tracking using YOLO** | Computer Vision system for real-time player & ball tracking, team detection, speed estimation, and match analytics. | `YOLOv8` `OpenCV` `Python` `NumPy` |
+| 🌾 **Crop Yield Prediction** | Machine Learning model that predicts agricultural crop yield using rainfall, temperature, soil nutrients, and environmental parameters. | `Python` `Scikit-Learn` `Random Forest` `Pandas` |
+| 🤖 **GenAI Video Retrieval System** | AI-powered semantic video search platform that retrieves relevant video segments using embeddings, vector search, and Large Language Models. | `Python` `LLMs` `Vector DB` `RAG` `GenAI` |
+| 📊 **Vendor Performance Dashboard** | Interactive business intelligence dashboard for analyzing vendor performance, KPIs, procurement metrics, and operational insights. | `Power BI` `Excel` `SQL` `DAX` |
+| 🧠 **Tacheon Data AI Assessment** | End-to-end AI assessment project involving data preprocessing, exploratory analysis, feature engineering, model development, and performance evaluation. | `Python` `Pandas` `Scikit-Learn` `Machine Learning` |
+| ✈️ **Drone Payload vs Flight Time Calculator** | Interactive web application that estimates drone flight time based on payload weight, battery specifications, and flight parameters. | `React` `JavaScript` `Charts` |
+| 🌐 **Developer Portfolio** | Modern responsive developer portfolio showcasing projects, skills, GitHub analytics, animations, and live deployments. | `React` `Tailwind CSS` `Framer Motion` `Vercel` |
 
 ---
+
+<div align="center">
+
+### 💻 Areas of Expertise
+
+🧠 **Artificial Intelligence** • 🤖 **Machine Learning** • ✨ **Generative AI** • 👁️ **Computer Vision**
+
+🌐 **Full Stack Development** • 📊 **Data Science** • 📈 **Business Intelligence** • ⚡ **MERN Stack**
+
+</div>
 
 # 📊 GitHub Analytics
 
