@@ -28,21 +28,27 @@ Focus:
 
 <div align="center">
 
-<a href="https://saket-bishnu.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_Portfolio-LIVE_WEBSITE-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<!-- 1. Portfolio Badge -->
+<a href="https://saket-bishnu.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Portfolio-Grey?style=for-the-badge&logo=vercel&logoColor=white&color=555555"/>
 </a>
 
-<a href="https://www.linkedin.com/in/saket-bishnu-00769a269/">
+<!-- 2. Live Website Badge (Good Life Clinic) -->
+<a href="https://good-life-clinic.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE_WEBSITE-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<!-- 3. LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/saket-bishnu-00769a269/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<!-- 4. Gmail Badge -->
 <a href="mailto:saketbsn@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
-
----
 
 # 🧠 Tech Matrix
 
