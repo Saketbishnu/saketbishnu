@@ -93,11 +93,11 @@ Focus:
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=Saketbishnu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api?username=Saketbishnu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img
 height="170"
-src="https://streak-stats.demolab.com?user=Saketbishnu&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketbishnu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
