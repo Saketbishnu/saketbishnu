@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00F7FF&text=SAKET%20BISHNU&fontColor=ffffff&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Software%20Engineer%20%7C%20ML%20Engineer%20%7C%20MERN%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;Computer+Vision+Developer;MERN+Stack+Developer;Building+AI+Powered+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Software+Developer;Full+Stack+Developer;Building+AI+Powered+Applications"/>
 
 </div>
 
@@ -18,6 +18,7 @@ Education: SRMIST — B.Tech CSE (Big Data Analytics)
 Focus:
   - AI Engineer
   - Software Developer
+  - Fullstack Developer
 ```
 
 ---
