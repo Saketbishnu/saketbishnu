@@ -16,10 +16,8 @@ Role: Software Engineer
 Education: SRMIST — B.Tech CSE (Big Data Analytics)
 
 Focus:
-  - Machine Learning
-  - Computer Vision
-  - MERN Stack
-  - Generative AI
+  - AI Engineer
+  - Software Developer
 ```
 
 ---
